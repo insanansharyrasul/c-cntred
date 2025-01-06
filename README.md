@@ -9,6 +9,6 @@ Well, it's now really centered, you don't need to scroll, because it's kind of l
 # Build
 Simply run this commands
 ```
-gcc c-cntred.c -o cntred
-./cntred "Your message here"
+gcc c-cntred.c -o c-cntred
+./c-cntred "Your message here"
 ```
